@@ -1,10 +1,11 @@
 // ==========================================================================
-// ALIGN TEXT
+// Text Align Utility
 // ==========================================================================
+
 /*doc
 ---
 title: Align text
-name: 1_align_text
+name: align_text
 category: utilities
 ---
 
@@ -21,7 +22,6 @@ This utility centers all text with `.u-text-center`, right aligns text with `.u-
 ```html_example
 <h3 class="u-text-left">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum et, odit illum molestias architecto obcaecati nihil nemo aspernatur placeat, explicabo pariatur unde, magnam tempore! Laudantium perferendis consequatur odit debitis hic?</h3>
 ```
-
 */
 
 .u-text-center {
