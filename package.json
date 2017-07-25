@@ -1,5 +1,5 @@
 {
-  "name": "mep-utilities.text-align",
+  "name": "@mise-en-place/utilities.text-align",
   "version": "2.0.0",
   "description": "Text Align Utility",
   "main": "stylesheets/_utility-text-align.scss",
@@ -14,7 +14,7 @@
   "author": "Kind",
   "license": "MIT",
   "dependencies": {
-    "mep-tools.global-config": "github:mise-en-place/tools.global-config",
+    "@mise-en-place/tools.global-config": "~3.0.0",
     "breakpoint-sass": "^2.7.1"
   }
 }
